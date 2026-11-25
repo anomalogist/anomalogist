@@ -3,23 +3,43 @@
 <h3>Developer • Linux Enthusiast • Designer • Automation</h3>
 <p><em>Building lightweight desktop apps, bots, and pixel art games on Void Linux.</em></p>
 
-<img src="https://shields.io" alt="Developer" />
-&nbsp;
-<img src="https://shields.io" alt="Linux" />
-&nbsp;
-<img src="https://shields.io" alt="Design" />
-&nbsp;
-<img src="https://shields.io" alt="Automation" />
-
 <br/>
 
 <p><strong>Core Stack & Tools</strong></p>
 
-<img src="https://skillicons.dev" alt="Core Stack" />
+<img src="https://githubusercontent.com" height="26" alt="Python" title="Python" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Rust" title="Rust" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="JavaScript" title="JavaScript" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="TypeScript" title="TypeScript" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Node.js" title="Node.js" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Bash" title="Bash" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="SQLite" title="SQLite" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="React" title="React" />
 <br/>
-<img src="https://skillicons.dev" alt="Tools" />
-<br/>
-<img src="https://shields.io" alt="Aseprite" />
+<img src="https://githubusercontent.com" height="26" alt="Vite" title="Vite" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Tauri" title="Tauri" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="HTML5" title="HTML5" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="CSS3" title="CSS3" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Figma" title="Figma" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Aseprite" title="Aseprite" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Godot Engine" title="Godot Engine" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Git" title="Git" />
+&nbsp;
+<img src="https://githubusercontent.com" height="26" alt="Neovim" title="Neovim" />
 
 <br/>
 
@@ -33,7 +53,7 @@
 
 <td width="64%" align="center" bgcolor="#101713">
 <a href="https://voidlinux.org">
-<img src="https://shields.io" alt="Void Linux" />
+<img src="https://githubusercontent.com" height="44" alt="Void Linux" />
 </a>
 <br/>
 <sub><font color="#91C5A0">Minimalism • runit • XBPS Packaging</font></sub>
@@ -47,20 +67,16 @@
 
 <br/>
 
-<a href="https://nixos.org">
-<img src="https://shields.io" alt="NixOS" />
+<a href="https://nixos.org" title="NixOS">
+<img src="https://githubusercontent.com" height="26" alt="NixOS" />
 </a>
-&nbsp;
-<a href="https://archlinux.org">
-<img src="https://shields.io" alt="Arch Linux" />
+&nbsp;&nbsp;
+<a href="https://archlinux.org" title="Arch Linux">
+<img src="https://githubusercontent.com" height="26" alt="Arch Linux" />
 </a>
-&nbsp;
-<a href="https://linuxmint.com">
-<img src="https://shields.io" alt="Linux Mint" />
-</a>
-&nbsp;
-<a href="https://zorin.com">
-<img src="https://shields.io" alt="Zorin OS" />
+&nbsp;&nbsp;
+<a href="https://linuxmint.com" title="Linux Mint">
+<img src="https://githubusercontent.com" height="26" alt="Linux Mint" />
 </a>
 
 </div>

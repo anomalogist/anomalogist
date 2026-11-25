@@ -5,7 +5,7 @@
 
 <img src="https://iconify.design" width="24" alt="Developer" />
 &nbsp;&nbsp;
-<img src="https://simpleicons.org" width="24" alt="Linux" />
+<img src="https://iconify.design" width="24" alt="Linux" />
 &nbsp;&nbsp;
 <img src="https://iconify.design" width="24" alt="Design" />
 &nbsp;&nbsp;
@@ -15,39 +15,39 @@
 
 <p><strong>Core Stack & Tools</strong></p>
 
-<img src="https://simpleicons.org" height="25" alt="Python" title="Python" />
+<img src="https://jsdelivr.net" height="26" alt="Python" title="Python" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="Rust" title="Rust" />
+<img src="https://jsdelivr.net" height="26" alt="Rust" title="Rust" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="JavaScript" title="JavaScript" />
+<img src="https://jsdelivr.net" height="26" alt="JavaScript" title="JavaScript" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="TypeScript" title="TypeScript" />
+<img src="https://jsdelivr.net" height="26" alt="TypeScript" title="TypeScript" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="Node.js" title="Node.js" />
+<img src="https://jsdelivr.net" height="26" alt="Node.js" title="Node.js" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="Bash" title="Bash" />
+<img src="https://jsdelivr.net" height="26" alt="Bash" title="Bash" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="SQLite" title="SQLite" />
+<img src="https://jsdelivr.net" height="26" alt="SQLite" title="SQLite" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="React" title="React" />
+<img src="https://jsdelivr.net" height="26" alt="React" title="React" />
 <br/>
-<img src="https://simpleicons.org" height="25" alt="Vite" title="Vite" />
+<img src="https://jsdelivr.net" height="26" alt="Vite" title="Vite" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="Tauri" title="Tauri" />
+<img src="https://jsdelivr.net" height="26" alt="Tauri" title="Tauri" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="HTML5" title="HTML5" />
+<img src="https://jsdelivr.net" height="26" alt="HTML5" title="HTML5" />
 &nbsp;
-<img src="https://iconify.design" height="25" alt="CSS3" title="CSS3" />
+<img src="https://jsdelivr.net" height="26" alt="CSS3" title="CSS3" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="Figma" title="Figma" />
+<img src="https://jsdelivr.net" height="26" alt="Figma" title="Figma" />
 &nbsp;
-<img src="https://iconify.design" height="25" alt="Aseprite" title="Aseprite" />
+<img src="https://iconify.design" height="26" alt="Aseprite" title="Aseprite" />
 &nbsp;
-<img src="https://iconify.design" height="25" alt="Godot Engine" title="Godot Engine" />
+<img src="https://jsdelivr.net" height="26" alt="Godot Engine" title="Godot Engine" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="Git" title="Git" />
+<img src="https://jsdelivr.net" height="26" alt="Git" title="Git" />
 &nbsp;
-<img src="https://simpleicons.org" height="25" alt="Neovim" title="Neovim" />
+<img src="https://jsdelivr.net" height="26" alt="Neovim" title="Neovim" />
 
 <br/>
 
@@ -63,7 +63,7 @@
 
 <td width="64%" align="center" bgcolor="#101713">
 <a href="https://voidlinux.org">
-<img src="https://simpleicons.org" height="44" alt="Void Linux" />
+<img src="https://iconify.design" height="44" alt="Void Linux" />
 </a>
 <br/>
 <sub><font color="#91C5A0">Minimalism • runit • XBPS Packaging</font></sub>
@@ -82,15 +82,15 @@
 <br/>
 
 <a href="https://nixos.org" title="NixOS">
-<img src="https://simpleicons.org" height="26" alt="NixOS" />
+<img src="https://jsdelivr.net" height="26" alt="NixOS" />
 </a>
 &nbsp;&nbsp;
 <a href="https://archlinux.org" title="Arch Linux">
-<img src="https://simpleicons.org" height="26" alt="Arch Linux" />
+<img src="https://jsdelivr.net" height="26" alt="Arch Linux" />
 </a>
 &nbsp;&nbsp;
 <a href="https://linuxmint.com" title="Linux Mint">
-<img src="https://simpleicons.org" height="26" alt="Linux Mint" />
+<img src="https://iconify.design" height="26" alt="Linux Mint" />
 </a>
 &nbsp;&nbsp;
 <a href="https://zorin.com" title="Zorin OS">

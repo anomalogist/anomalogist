@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3>Developer • Linux Enthusiast • Designer • Automation</h3>
-`<p>Building lightweight desktop apps, bots, and pixel art games on Void Linux.</p>`
+<p>Building lightweight desktop apps, bots, and pixel art games on Void Linux.</p>
 
 <br/>
 ---

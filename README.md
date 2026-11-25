@@ -1,10 +1,10 @@
 <div align="center">
 
 <h3>Developer • Linux Enthusiast • Designer • Automation</h3>
-<p><em>Building lightweight desktop apps, bots, and pixel art games on Void Linux.</em></p>
+`<p>Building lightweight desktop apps, bots, and pixel art games on Void Linux.</p>`
 
 <br/>
-
+---
 <strong>Core Stack & Tools</strong>
 
 <img src="https://cdn.simpleicons.org/python/91C5A0" height="26" alt="Python" />

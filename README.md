@@ -13,13 +13,9 @@
 
 </div>
 
-### About
----
 I'm **Ano**; an independent developer drawn to **GNU/Linux**, open source, and thoughtfully crafted software.
 
 I build developer tools, Discord bots, and desktop applications. I enjoy exploring systems, designing interfaces, and making useful things work — even on modest hardware.
-
-### Tools & Technologies
 
 <div align="center">
 
@@ -27,8 +23,6 @@ I build developer tools, Discord bots, and desktop applications. I enjoy explori
 
 </div>
 
-### Linux
----
 A long-running interest in Linux, from lightweight distributions to highly customizable systems.
 
 <div align="center">

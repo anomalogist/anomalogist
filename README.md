@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 **DEVELOPER** · **LINUX** · **DESIGN** · **AUTOMATION**
@@ -103,4 +103,3 @@ Building developer tools, bots, and desktop experiences.
 <sub>Independent by choice. Curious by nature.</sub>
 
 </div>
-```

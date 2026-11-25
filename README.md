@@ -13,9 +13,7 @@
 
 </div>
 
-I'm **Ano**; an independent developer drawn to **GNU/Linux**, open source, and thoughtfully crafted software.
-
-I build developer tools, Discord bots, and desktop applications. I enjoy exploring systems, designing interfaces, and making useful things work — even on modest hardware.
+I build developer tools, Discord bots, and desktop applications. I enjoy exploring systems, designing interfaces, and making useful things work even on modest hardware.
 
 <div align="center">
 

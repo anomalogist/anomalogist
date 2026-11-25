@@ -4,9 +4,8 @@
 <p>Building lightweight desktop apps, bots, and pixel art games on Void Linux.</p>
 
 <br/>
----
 <strong>Core Stack & Tools</strong>
-
+<br>
 <img src="https://cdn.simpleicons.org/python/91C5A0" height="26" alt="Python" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/rust/91C5A0" height="26" alt="Rust" />

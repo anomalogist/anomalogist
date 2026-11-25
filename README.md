@@ -26,32 +26,6 @@ I build developer tools, Discord bots, and desktop applications. I enjoy explori
 
 </div>
 
-### Projects & Repositories
-
-<div align="center">
-
-
-<div align="center">
-
-<a href="https://github.com/GwenAsa/cordium-ide"><img src="https://img.shields.io/badge/CORDIUM-111111?style=flat-square&logo=discord&logoColor=B91C1C" alt="Cordium IDE"></a>
-<a href="https://github.com/GwenAsa/heatmap-desktop"><img src="https://img.shields.io/badge/HEATMAP-111111?style=flat-square&logo=tauri&logoColor=B91C1C" alt="Heatmap Desktop"></a>
-<a href="https://github.com/GwenAsa/bashter-terminal"><img src="https://img.shields.io/badge/BASHTER-111111?style=flat-square&logo=linux&logoColor=B91C1C" alt="BashTer Terminal"></a>
-<a href="https://github.com/GwenAsa/playbox"><img src="https://img.shields.io/badge/PLAYBOX-111111?style=flat-square&logo=steam&logoColor=B91C1C" alt="PlayBox"></a>
-<a href="https://github.com/GwenAsa/discy-free-premium-discord-bot"><img src="https://img.shields.io/badge/DISCY_BOT-111111?style=flat-square&logo=discord&logoColor=B91C1C" alt="Discy Bot"></a>
-<a href="https://github.com/GwenAsa/persian-translator-for-reddit"><img src="https://img.shields.io/badge/REDDIT_TRANSLATOR-111111?style=flat-square&logo=reddit&logoColor=B91C1C" alt="Persian Translator for Reddit"></a>
-<a href="https://github.com/GwenAsa/git-course-fa"><img src="https://img.shields.io/badge/GIT_COURSE-111111?style=flat-square&logo=git&logoColor=B91C1C" alt="Git Course"></a>
-<a href="https://github.com/GwenAsa/linux-terminal-mastery"><img src="https://img.shields.io/badge/LINUX_TERMINAL-111111?style=flat-square&logo=linux&logoColor=B91C1C" alt="Linux Terminal Mastery"></a>
-<a href="https://github.com/GwenAsa/vim-nvim-mastery"><img src="https://img.shields.io/badge/VIM_NEOVIM-111111?style=flat-square&logo=neovim&logoColor=B91C1C" alt="Vim & Neovim Mastery"></a>
-<a href="https://github.com/GwenAsa/linux-command-cheat-sheet"><img src="https://img.shields.io/badge/LINUX_COMMANDS-111111?style=flat-square&logo=linux&logoColor=B91C1C" alt="Linux Command Cheat Sheet"></a>
-<a href="https://github.com/GwenAsa/git-cheat-sheet"><img src="https://img.shields.io/badge/GIT_CHEATSHEET-111111?style=flat-square&logo=git&logoColor=B91C1C" alt="Git Cheat Sheet"></a>
-<a href="https://github.com/GwenAsa/discordpy-encyclopedia"><img src="https://img.shields.io/badge/DISCORDPY_GUIDE-111111?style=flat-square&logo=python&logoColor=B91C1C" alt="discord.py Encyclopedia"></a>
-<a href="https://github.com/GwenAsa?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-151515?style=flat-square&logo=github&logoColor=B91C1C" alt="View All Repositories"></a>
-
-</div>
-
-
-</div>
-
 ### Linux
 
 A long-running interest in Linux, from lightweight distributions to highly customizable systems.

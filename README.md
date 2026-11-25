@@ -1,57 +1,44 @@
 
 <div align="center">
 
-<table align="center" width="90%" border="2" bordercolor="#478061" bgcolor="#101713">
-<tr>
-<td align="center" width="30%" valign="middle">
+**DEVELOPER** · **LINUX** · **DESIGN** · **AUTOMATION**
+
+Independent developer building tools, Discord bots, and desktop applications with Python, TypeScript, JavaScript, Rust, React, Tauri, and SQLite.
 
 <br/>
 
-<sub>✧ &nbsp; ✦ &nbsp; ✧</sub>
+**PYTHON** · **TYPESCRIPT** · **RUST** · **REACT** · **TAURI** · **NODE.JS** · **SQLITE** · **BASH** · **GIT** · **NIX** · **FIGMA**
+
+</div>
+
+---
+
+### Linux
+
+<div align="center">
+
+<table width="100%" border="1" bordercolor="#478061">
+<tr>
+<td width="35%" align="center" bgcolor="#101713">
+
+<sub>✧ MY PRIMARY DISTRIBUTION ✧</sub>
 
 <br/><br/>
 
-<a href="https://voidlinux.org">
-<img
-src="https://raw.githubusercontent.com/void-linux/void-packages/master/srcpkgs/void-artwork/files/void-logo.svg"
-width="125"
-alt="Void Linux Official Logo"
-/>
-</a>
-
-<br/><br/>
-
-<sub>⟡ &nbsp; EST. INDEPENDENCE &nbsp; ⟡</sub>
-
-<br/><br/>
+<strong><font color="#91C5A0">✦ VOID LINUX ✦</font></strong>
 
 </td>
-
-<td align="left" valign="middle">
-
-<sub>✦ &nbsp; MY PRIMARY DISTRIBUTION &nbsp; ✦</sub>
-
-<br/>
-
-<h1>VOID LINUX</h1>
+<td align="left" bgcolor="#101713">
 
 <strong>THE DISTRO I CALL HOME.</strong>
 
-<br/><br/>
+<br/>
 
 <sub>Independent · Minimal · Uncompromising</sub>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/RUNIT-478061?style=flat-square&labelColor=17251D" />
-<img src="https://img.shields.io/badge/XBPS-478061?style=flat-square&labelColor=17251D" />
-<img src="https://img.shields.io/badge/ROLLING-478061?style=flat-square&labelColor=17251D" />
-
-<br/><br/>
-
-<sub>☼ &nbsp; MY LINUX HOME &nbsp; ☼</sub>
-
 <br/>
+
+<sub>RUNIT &nbsp;·&nbsp; XBPS &nbsp;·&nbsp; ROLLING RELEASE</sub>
 
 </td>
 </tr>
@@ -59,6 +46,14 @@ alt="Void Linux Official Logo"
 
 <br/>
 
-<sub>⟡ &nbsp; INDEPENDENT BY CHOICE. CURIOUS BY NATURE. &nbsp; ⟡</sub>
+<sub>ALSO EXPLORED</sub>
+
+<br/><br/>
+
+**NixOS** · **Linux Mint** · **Zorin OS**
+
+<br/><br/>
+
+<sub>Independent by choice. Curious by nature.</sub>
 
 </div>

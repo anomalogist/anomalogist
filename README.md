@@ -29,7 +29,6 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/html5/91C5A0" height="26" alt="HTML5" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/css3/91C5A0" height="26" alt="CSS" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/figma/91C5A0" height="26" alt="Figma" />
 &nbsp;
